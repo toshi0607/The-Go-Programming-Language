@@ -1,0 +1,8 @@
+0.25s    8449 https://golang.org
+0.34s   11615 https://google.com
+0.34s elapsed
+
+0.24s    8449 https://golang.org
+0.30s   11601 https://google.com
+0.30s elapsed
+
