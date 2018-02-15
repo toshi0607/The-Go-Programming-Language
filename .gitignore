@@ -16,4 +16,7 @@
 # editor
 .vscode/
 
+# file
+.DS_Store
+
 
